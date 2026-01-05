@@ -2,7 +2,9 @@
 - 👀 I’m interested in networking and Devops
 - 🌱 I’m currently learning Ansible/Kubernetes/ others
 - 💞️ I’m looking to collaborate on all proyects.
-- 📫 How to reach me Ferreiracigliutti@gmail.com
+- 📫 How to reach me ferreiracigliutti@gmail.com or www.linkedin.com/in/fferreira-it
+
+
 
 <!---
 Juchilgaa/Juchilgaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
